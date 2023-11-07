@@ -1,1 +1,11 @@
+
+
 https://react.dev/learn/tutorial-tic-tac-toe
+
+
+Configuração inicial
+	1- Instalar o NODE.JS (https://nodejs.org/en)
+	2- Ver a versão instalada: npm -v
+	3- Criar o arquivo package.json
+	4- Rodar: npm install
+	5- Roda o server: npm start
