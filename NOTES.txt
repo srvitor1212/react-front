@@ -9,3 +9,6 @@ Configuração inicial
 	3- Criar o arquivo package.json
 	4- Rodar: npm install
 	5- Roda o server: npm start
+
+React Dev Tools
+	Instalar extenção no chrome "React Developer Tools".
